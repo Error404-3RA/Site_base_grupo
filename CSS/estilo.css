@@ -20,3 +20,13 @@ body{
     border-radius: 15px;
     margin-bottom:20px;
 }
+.btn-primary{
+        color: #f1eeee; 
+        background-color: #005f40;
+        border-color: #005f40;
+    }
+    .btn-primary:hover{
+        color: #005f40;
+        background-color: #f1eeee; 
+        border-color: #f1eeee; 
+    }
