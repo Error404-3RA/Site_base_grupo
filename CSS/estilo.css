@@ -21,12 +21,12 @@ body{
     margin-bottom:20px;
 }
 .btn-primary{
-        color: #f1eeee; 
-        background-color: #005f40;
-        border-color: #005f40;
-    }
-    .btn-primary:hover{
-        color: #f1eeee; 
-        background-color: #014730;
-        border-color: #014730;
-    }
+    color: #f1eeee;
+    background-color: #005f40;
+    border-color: #005f40;
+}
+.btn-primary:hover{
+    color: #f1eeee;
+    background-color: #014730;
+    border-color: #014730;
+}
